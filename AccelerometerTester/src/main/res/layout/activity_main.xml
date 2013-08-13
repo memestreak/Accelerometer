@@ -172,7 +172,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceLarge"
-            android:text="999.00"
+            android:text="0.0"
             android:id="@+id/textViewVectorMin"
             android:layout_below="@+id/textViewVectorMax"
             android:layout_alignLeft="@+id/textViewVectorMax"/>
